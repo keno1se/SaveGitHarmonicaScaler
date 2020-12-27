@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "keno1se.github.io.paid",
+  "variantName": "processPaidReleaseResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 1001,
+      "versionName": "1.0.1",
+      "outputFile": "app-Paid-release.apk"
+    }
+  ]
+}

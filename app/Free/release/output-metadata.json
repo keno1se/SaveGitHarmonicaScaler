@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "keno1se.github.io.free",
+  "variantName": "processFreeReleaseResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 1001,
+      "versionName": "1.0.1ggg",
+      "outputFile": "app-Free-release.apk"
+    }
+  ]
+}
